@@ -1,13 +1,13 @@
 ## Node.js API with typescript from scratch
-####How to create a Node.js Rest Api using Typescript from scratch
+#### How to create a Node.js Rest Api using Typescript from scratch
 
-##Dependences
+## Dependences
 - Typescript
 - Express
 - TypeORM
 - SQLite3
 
-###First Steps
+### First Steps
 
 ------------
 
