@@ -23,7 +23,7 @@
 
 	- Install Node Type Safe to Typescript  `npm install -D @types/node @types/express`
 
-	- Start a Typescript Project: `npx tsc –init`
+	- Start a Typescript Project: `npx -p typescript tsc --init`
 
 	- Create `.gitignore` file.
 
